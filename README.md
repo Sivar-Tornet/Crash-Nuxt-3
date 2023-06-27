@@ -60,4 +60,8 @@ pnpm run preview
 yarn preview
 ```
 
+#### Training Course Link
+https://www.youtube.com/watch?v=ww94Jvi8JJo
+
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
