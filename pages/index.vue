@@ -7,8 +7,8 @@
     </div>
 </template>
 
-<script setup>
-const { sayHello } = useUtils();
+<script setup lang="ts">
+    const { $sayHello } = useNuxtApp()
 
-sayHello()
+
 </script>
